@@ -55,7 +55,7 @@ VS Code
 Git / GitHub
 ## Selected Projects
 
-##Around The U.S.
+## Around The U.S.
 
 A responsive web project developed during my Full Stack Web Development training, focused on creating a clean and consistent interface across different screen sizes.
 
